@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068652912690",
+    "firebase_url": "https://firenotes-d9346.firebaseio.com",
+    "project_id": "firenotes-d9346",
+    "storage_bucket": "firenotes-d9346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068652912690:android:e08fb3902919496e251c2b",
+        "android_client_info": {
+          "package_name": "com.example.firenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068652912690-cavc0ihaib873nans4sl65ko3a02mf1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntoy-MCuVlcONM-ls1041DVHkHmyGDrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068652912690-cavc0ihaib873nans4sl65ko3a02mf1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

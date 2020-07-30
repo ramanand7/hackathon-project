@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">firenotes</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_notedetail">notedetail</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_addnotes">addnotes</string>
+    <string name="give_your_note_a_title_here">give your note a title here</string>
+    <string name="aboutappstring">hellow user.\n this beautiful app is created by team(naveen yadav,kumar satu,nakul ,ramanand)for taking notes from any where anytime
+        .here you can save notes and ascess these from any whera .
+        sync notes to save these in your gmail account .
+    </string>
+    <string name="n"> download a beautiful note taking app from google playstore name Take Notes . here you can save your notes to
+        google gmail account and ascess these notes from anywhere </string>
+</resources>

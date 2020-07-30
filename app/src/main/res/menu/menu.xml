@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="generals">
+        <menu>
+            <item
+                android:id="@+id/sync"
+                android:icon="@drawable/ic_autorenew_black_24dp"
+                android:title="sync" />
+            <item
+                android:id="@+id/addnote"
+                android:icon="@drawable/box_black_24dp"
+                android:title="create new note" />
+            <item
+                android:id="@+id/notes"
+                android:icon="@drawable/ic_insert_drive_file_black_24dp"
+                android:title="notes" />
+        </menu>
+    </item>
+    <item android:title="support">
+        <menu>
+            <item
+                android:id="@+id/shareapp"
+                android:icon="@drawable/share_black_24dp"
+                android:title="shareapp" />
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/rate_review_black_24dp"
+                android:title="rating" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ab"
+                android:title="about" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/loogout"
+        android:title="logout" >
+        <menu >
+            <item
+                android:id="@+id/lhout"
+                android:icon="@drawable/account_circle_black_24dp"
+                android:title="logout" />
+        </menu>
+    </item>
+</menu>

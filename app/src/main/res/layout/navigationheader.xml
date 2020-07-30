@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/claay"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="Take Notes"
+        android:textColor="#E8E5E5"
+        android:textSize="50sp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="your notes safe here "
+        android:textColor="#E8E5E5"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/usernamenv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="ramanand"
+        android:textColor="#E8E5E5"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/useremailnv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ramanand9958654058@gmail.com"
+        android:textColor="#E8E5E5" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
